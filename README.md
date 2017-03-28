@@ -1,13 +1,13 @@
-# ELEMNT-Mount
+# ELEMNT+ELEMNT BOLT - Mounts
 
-This project includes the files required to build products using the Wahoo Fitness mounting system used by the ELEMNT bike computer (www.wahoofitness.com/elemnt). 
+This project includes the files required to build products using the Wahoo Fitness mounting system used by the ELEMNT bike computer line (www.wahoofitness.com/elemnt). 
 
 Anyone and Everyone (including other bike computers companies) are welcome to use this design. We believe releasing these design will benefit all users of our products and allow for a wide range of mounting options in the future.
 
 
 The ELEMNT RECEIVER geometry was designed to be injection moulded in Nylon 6 with 10% glass fill.  Using this geometry with other materials will require modification to account for material property differences.  I.E. spring force of the detents, adequate retention strength, and correct removal torque. Please use these files at your own risk as Wahoo Fitness is not responsible for damage caused by non-approved or user constructed mounting devices.
 
-If you decided to use these files feel free to let us know and we would be happy to link to any hobby projects you might publish.
+If you decide to use these files feel free to let us know and we would be happy to link to any hobby projects you might publish.
 
 
 
