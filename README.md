@@ -1,4 +1,4 @@
-# ELEMNT+ELEMNT BOLT - Mounts
+# ELEMNT - Mounts
 
 This project includes the files required to build products using the Wahoo Fitness mounting system used by the ELEMNT bike computer line (www.wahoofitness.com/elemnt). 
 
